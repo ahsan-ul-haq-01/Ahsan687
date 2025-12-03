@@ -79,7 +79,7 @@
 <br>
 
 <p align="center">
-<a href="www.linkedin.com/in/ahsan-ul-haq01" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Ahsan-ul-haq" height="40" width="45" /></a>  
+<a href="www.linkedin.com/in/ahsan-ul-haq01/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Ahsan-ul-haq" height="40" width="45" /></a> 
 &nbsp;<a href="mailto:ahsanulhaqreshi@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="ahsanulhaqreshi@gmail.com" width="40" /></a>       
 
 -----
